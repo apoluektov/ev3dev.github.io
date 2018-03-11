@@ -150,13 +150,13 @@ If you are using an older version, please upgrade.
 
         {% include /util/screenshot.html source="/images/osx/10.9/SystemPreferencesSharing.png" %}
 
-    10. Click *Internet Connection* on the left, but don't check the box yet. On
+    10. Click *Internet Sharing* on the left, but don't check the box yet. On
         the right, *Share your connection from:* will be *Wi-Fi* (or *Ethernet* if
         you have a wired connection). Then check the box next to *Bluetooth PAN*
 
         {% include /util/screenshot.html source="/images/osx/10.10/System-Preferences-Sharing-Bluetooth-PAN.png" %}
 
-    11. Now check the box next to *Internet Connection* on the left to enable it.
+    11. Now check the box next to *Internet Sharing* on the left to enable it.
         Read the warning and then click *Start*.
 
         {% include /util/screenshot.html source="/images/osx/10.9/Sharing-Internet-Connection-Warning.png" %}
